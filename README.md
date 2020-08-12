@@ -3,7 +3,11 @@
 
 
 ## Lecture 1 
-### Crawling using urllib
+urllib request open url
+### Check Module
 
 ## Lecture 2 
 ### Crawling using urllib
+
+## Lecture 3
+
